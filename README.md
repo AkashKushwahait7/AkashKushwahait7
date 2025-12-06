@@ -53,6 +53,6 @@ Additional LinkedIn Skill Assessments – Front-End Development, CSS, React
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com/in/akash-kushwaha  
+LinkedIn: https://linkedin.com/in/akash-kushwaha-  
 GitHub: https://github.com/AkashKushwahait7  
 Email: akash.it.kushwaha@gmail.com
